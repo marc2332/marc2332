@@ -1,8 +1,6 @@
-### ✨ Welcome to my profile 
+### ✨ About
 
-I am Marc Espín 🤠
-
-I am currently improving my existing knowledge of the JavaScript ecosystem and taking a look at Rust.
+I like descentralized things and cryptos 🙆‍♂️
 
 ### 💼 Some of my projects:
 
@@ -12,5 +10,5 @@ I am currently improving my existing knowledge of the JavaScript ecosystem and t
 
 ![Marc's stats](https://github-readme-stats.vercel.app/api?username=marc2332&show_icons=true)
 
-### Streak 
+### ⚡ Streak 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marc2332&theme=dark)](https://github.com/marc2332/github-readme-streak-stats)
