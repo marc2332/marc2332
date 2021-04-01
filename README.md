@@ -2,6 +2,8 @@
 
 I like descentralized things and cryptos 🙆‍♂️
 
+I am currently digging on Deno 🦕😄
+
 ### 💼 Some of my projects:
 
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App): A modern-looking code editor.
