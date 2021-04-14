@@ -1,6 +1,6 @@
 ### ✨ About
 
-I like descentralized things and cryptos 🙆‍♂️
+I like decentralised apps and cryptos 🙆‍♂️
 
 I am currently digging on Deno 🦕😄
 
