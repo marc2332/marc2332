@@ -11,6 +11,3 @@ I am currently digging on Deno 🦕😄
 * 💻 [Eora](https://github.com/marc2332/eora): A colorful, fast, simple & smart cross-platform shell.
 
 ![Marc's stats](https://github-readme-stats.vercel.app/api?username=marc2332&show_icons=true)
-
-### ⚡ Streak 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marc2332&theme=dark)](https://github.com/marc2332/github-readme-streak-stats)
