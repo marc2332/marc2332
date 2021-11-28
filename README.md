@@ -2,7 +2,9 @@
 
 I like decentralized apps, cryptos and to learn new things as much I can, everyday.
 
-I am currently digging into Rust 🦀, Flutter 🐦 and Python 🐍 😄
+At the moment, I digging into Rust 🦀, Flutter 🐦 and Python 🐍 😄
+
+I have a [personal website](https://mespin.vercel.app/) and a [Gitlab account](https://gitlab.com/marc2332).
 
 ### 💼 Some of my projects
 * 💃  [Sardana-Jupyter](https://github.com/sardana-org/sardana-jupyter): Sardana integration into the Jupyter Ecosystem.
