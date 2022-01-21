@@ -10,6 +10,7 @@ I have a [personal website](https://mespin.vercel.app/) and a [Gitlab account](h
 
 ### 💼 Some of my projects
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking intuitive code editor.
+* 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
 * 💸 [Solana Wallet](https://github.com/marc2332/solana-mobile-wallet) - A Solana mobile wallet made with Flutter.
 * 💻 [Rust Blockchain](https://github.com/marc2332/rust_blockchain) - A decentralized blockchain-based platform made in Rust.
 * 💃  [Sardana-Jupyter](https://github.com/sardana-org/sardana-jupyter) - Sardana integration into the Jupyter Ecosystem.
