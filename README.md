@@ -18,4 +18,4 @@ I have a [personal website](https://mespin.vercel.app/) and a [Gitlab account](h
 
 ### 📊 My stats 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=marc2332&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=marc2332&show_icons=true&theme=calm&count_private=true)
