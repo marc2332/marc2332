@@ -4,7 +4,9 @@ I always try to learn new things, and improve what I already know.
 
 _Scientia potentia est_ - _Knowledge is power_
 
-I am interested in cryptocurrencies 💱 and dapps 🧾, and at the moment I am digging into Rust 🦀, Flutter 🐦 and Python 🐍 😄, but also improving my JavaScript/TypeScript frontend/backend knowledge 💪
+I am a software developer currently digging into Rust 🦀, Flutter+Dart 🐦, Deno 🦕 and Python 🐍 😄, but also improving my JavaScript/TypeScript frontend/backend knowledge 💪
+
+Cryptocurrencies and dapps 📝 are very interesting to me 
 
 I have a [personal website](https://mespin.vercel.app/) and a [Gitlab account](https://gitlab.com/marc2332).
 
