@@ -6,7 +6,7 @@ I am a software developer currently digging into Rust 🦀, Flutter+Dart 🐦, D
 
 Cryptocurrencies and dapps 📝 are interesting to me 
 
-I have a [personal website](https://mespin.vercel.app/) and a [Gitlab account](https://gitlab.com/marc2332).
+I have a [personal website](https://mespin.me/) and a [Gitlab account](https://gitlab.com/marc2332).
 
 ### 💼 Some of my projects
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking intuitive code editor.
