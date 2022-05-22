@@ -6,7 +6,7 @@ Hey, I'm Marc
 
 I am a Software Developer currently focused on Rust 🦀 and Deno 🦕.
 
-My personal website is [mespin.me] (https://mespin.me/).
+My personal website is [mespin.me](https://mespin.me/).
 
 ### 💼 Some of my projects
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking cross-platform code editor.
