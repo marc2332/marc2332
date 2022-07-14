@@ -4,7 +4,7 @@
 
 Hey, I'm Marc
 
-I am a Software Developer currently focused on Rust 🦀 and Deno 🦕.
+I am a Software Developer currently focused on Rust 🦀 React ⚛️, TypeScript 💙 and Deno 🦕.
 
 My personal website is [mespin.me](https://mespin.me/).
 
