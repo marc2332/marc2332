@@ -12,6 +12,7 @@ My personal website is [mespin.me](https://mespin.me/).
 * 💸 [Reactor Wallet](https://github.com/marc2332/solana-mobile-wallet) - A cross-platform wallet for Solana Blockchain made with Flutter.
 * 💃  [Sardana-Jupyter](https://github.com/sardana-org/sardana-jupyter) - Sardana integration into the Jupyter Ecosystem.
 * 🧪 [ham](https://github.com/marc2332/ham) - A simple interpreted programming language made in Rust.
+* 🎨 Dioxus-skia: A [Skia](https://skia.org/)-based renderer for [Dioxus](https://dioxuslabs.com/), WIP & closed source (for now).
 
 ### 📊 My stats 
 
