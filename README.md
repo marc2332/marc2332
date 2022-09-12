@@ -7,12 +7,11 @@ I am a Software Developer currently focused on Rust 🦀, React ⚛️, TypeScri
 My personal website is [mespin.me](https://mespin.me/).
 
 ### 💼 Some of my projects
+* 🦀 [Freya](https://github.com/marc2332/freya): A GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking cross-platform code editor.
 * 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
-* 💸 [Reactor Wallet](https://github.com/marc2332/solana-mobile-wallet) - A cross-platform wallet for Solana Blockchain made with Flutter.
-* 💃  [Sardana-Jupyter](https://github.com/sardana-org/sardana-jupyter) - Sardana integration into the Jupyter Ecosystem.
 * 🧪 [ham](https://github.com/marc2332/ham) - A simple interpreted programming language made in Rust.
-* 🎨 Dioxus-skia: A [Skia](https://skia.org/)-based renderer for [Dioxus](https://dioxuslabs.com/), WIP & closed source (for now).
+* 💸 [Reactor Wallet](https://github.com/marc2332/solana-mobile-wallet) - A cross-platform wallet for Solana made with Flutter.
 
 ### 📊 My stats 
 
