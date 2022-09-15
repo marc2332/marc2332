@@ -7,7 +7,7 @@ I am a Software Developer currently focused on Rust 🦀, React ⚛️, TypeScri
 My personal website is [mespin.me](https://mespin.me/).
 
 ### 💼 Some of my projects
-* 🦀 [Freya](https://github.com/marc2332/freya): A GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
+* 🦀 [Freya](https://github.com/marc2332/freya): A Rust GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking cross-platform code editor.
 * 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
 * 🧪 [ham](https://github.com/marc2332/ham) - A simple interpreted programming language made in Rust.
