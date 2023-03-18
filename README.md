@@ -11,7 +11,6 @@ My personal website is [mespin.me](https://mespin.me/).
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Modern-looking cross-platform code editor.
 * 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
 * 💻 [Freya Editor](https://github.com/marc2332/freya-editor) - Experimental code editor written in Rust.
-* 🧪 [ham](https://github.com/marc2332/ham) - Simple interpreted programming language made in Rust.
 
 ### 📊 My stats 
 
