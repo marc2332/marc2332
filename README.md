@@ -2,7 +2,7 @@
 
 Hey! I'm Marc
 
-Web frontend ⚛️ developer and working on Rust projects 🦀 in my spare time.
+Web frontend ⚛️ developer but working on Rust projects 🦀 in my spare time.
 
 My personal website is [mespin.me](https://mespin.me/).
 
