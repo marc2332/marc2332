@@ -1,16 +1,16 @@
 ### 😃 About
 
-Hey, I'm Marc
+Hey! I'm Marc
 
-I am a Software Developer currently focused on Rust 🦀, React ⚛️, TypeScript 💙 and Deno 🦕.
+Web frontend ⚛️ developer and working on Rust projects 🦀 in my spare time.
 
 My personal website is [mespin.me](https://mespin.me/).
 
 ### 💼 Some of my projects
-* 🦀 [Freya](https://github.com/marc2332/freya): Rust GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
+* 🦀 [Freya](https://github.com/marc2332/freya): Native Rust GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Modern-looking cross-platform code editor.
-* 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
 * 💻 [Freya Editor](https://github.com/marc2332/freya-editor) - Experimental code editor written in Rust.
+* 🦕 [Astrodon](https://github.com/astrodon/astrodon) - Experimental desktop app framework for Deno.
 
 ### 📊 My stats 
 
