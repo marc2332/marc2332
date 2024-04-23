@@ -8,7 +8,7 @@ My personal website is [mespin.me](https://mespin.me/).
 
 ### 💼 Some of my projects
 * 🦀 [Freya](https://github.com/marc2332/freya) - Native Rust GUI library powered by [Skia](https://skia.org/) and [Dioxus](https://dioxuslabs.com/).
-* 💻 [Freya Editor](https://github.com/marc2332/freya-editor) - Experimental code editor written in Rust with Freya.
+* ⚒️ [Valin](https://github.com/marc2332/valin) - Cross-platform code editor written in [Freya](https://github.com/marc2332/freya) and Rust.
 * 🦑 [ghboard](https://github.com/marc2332/ghboard) - GitHub Dashboard with contributions graphs, made in Rust.
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Modern-looking cross-platform code editor made with Tauri.
 * 📻 [Dioxus Radio](https://github.com/dioxus-community/dioxus-radio) - State management library for [Dioxus](https://dioxuslabs.com/) based on topics subscription.
