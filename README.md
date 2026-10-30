@@ -1,12 +1,10 @@
-### 😃 About
+###  hey 👋
 
-Hey! I'm Marc
-
-Web frontend ⚛️ developer but working on Rust projects 🦀 in my spare time.
+I'm a fullstack developer but also into systems programming, Rust 🦀 enjoyer.
 
 My personal website is [mespin.me](https://mespin.me/).
 
-### 💼 Some of my work
+### Present work
 * 🦀 [Freya](https://github.com/marc2332/freya) - Cross-platform, native and declarative Rust GUI library.
   * ⚡️ [freya-core](https://github.com/marc2332/freya/tree/main/crates/freya-core) - Components-based runtime system, reactive primitives and UI tree diffing.
   * 🏗 [torin](https://github.com/marc2332/freya/tree/main/crates/torin) - UI layout library.
@@ -14,5 +12,7 @@ My personal website is [mespin.me](https://mespin.me/).
   * 🔍 [Freya Query](https://github.com/marc2332/freya/tree/main/crates/freya-query) - Reusable data state management library.
 * 💻 [marcterm](https://github.com/marc2332/marcterm) -Terminal Emulator written in [Freya](https://github.com/marc2332/freya) and Rust.
 * ⚒️ [Valin](https://github.com/marc2332/valin) - Cross-platform code editor written in [Freya](https://github.com/marc2332/freya) and Rust.
+
+### Past work
 * ⭐️ [Andromeda](https://github.com/tryandromeda/andromeda) - Pure Rust TypeScript/JavaScript runtime.
 * 🚀 [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Modern-looking cross-platform code editor made with Tauri.
